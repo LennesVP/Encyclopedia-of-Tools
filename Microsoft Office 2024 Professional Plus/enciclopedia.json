@@ -1,0 +1,11 @@
+[
+  {
+    "titulo": "Microsoft Office 2024 Professional Plus",
+    "autor": "Microsoft Corporation",
+    "descripcion": "La suite ofimática más potente del mercado. Incluye la instalación base de aplicaciones como Word, Excel, PowerPoint, Access y Publisher en su versión estable 2024.",
+    "advertencia": "⚠️ ATENCIÓN: Esta herramienta solo instala el software oficial de Microsoft. NO incluye licencia. Para que el cliente pueda usarlo, usted debe insertar y activar una clave legal comprada.",
+    "carpeta": "Microsoft Office 2024 Professional Plus",
+    "archivos": ["setup.exe", "Configuration.xml"],
+    "comando_instalacion": "setup.exe /configure Configuration.xml"
+  }
+]
