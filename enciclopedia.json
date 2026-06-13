@@ -7,5 +7,13 @@
     "carpeta": "Microsoft Office 2024 Professional Plus",
     "archivos": ["setup.exe", "Configuration.xml"],
     "comando_instalacion": "setup.exe /configure Configuration.xml"
+  },
+  {
+    "titulo": "Minima Launcher",
+    "autor": "0-manbir",
+    "descripcion": "Un lanzador extremadamente ligero y minimalista para Windows. Diseñado para mejorar tu concentración, reducir el consumo de memoria RAM y mantener un escritorio limpio sin distracciones.",
+    "advertencia": "ℹ️ MÉTODO DE OBTENCIÓN: Esta herramienta no requiere instalación silenciosa. Al presionar el botón serás redirigido al repositorio oficial de código abierto en GitHub para revisar su documentación o descargarla manualmente.",
+    "es_enlace": true,
+    "enlace": "https://github.com/0-manbir/minimalauncher"
   }
 ]
