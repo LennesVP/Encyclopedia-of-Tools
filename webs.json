@@ -4,5 +4,11 @@
     "categoria": "📱 Telefonía / ROMs",
     "descripcion": "La mayor base de datos global para descargar firmwares oficiales, ROMs (Fastboot y Recovery) y archivos de rescate para dispositivos Xiaomi, Redmi y POCO. Esencial para revivir teléfonos 'brickeaos' o actualizar el sistema manualmente.",
     "enlace": "https://mifirm.net/"
+  },
+  {
+    "nombre": "Eaglercraft (Minecraft Web)",
+    "categoria": "🎮 Entretenimiento / Juegos",
+    "descripcion": "Juega Minecraft de forma nativa directamente desde cualquier navegador web sin necesidad de instalar Java ni clientes pesados. Este port completo permite jugar en modo solitario o en servidores multijugador con amigos, ideal para pruebas rápidas o equipos de bajos recursos.",
+    "enlace": "https://eaglercraft.com/"
   }
 ]
