@@ -10,5 +10,11 @@
     "categoria": "🎮 Entretenimiento / Juegos",
     "descripcion": "Juega Minecraft de forma nativa directamente desde cualquier navegador web sin necesidad de instalar Java ni clientes pesados. Este port completo permite jugar en modo solitario o en servidores multijugador con amigos, ideal para pruebas rápidas o equipos de bajos recursos.",
     "enlace": "https://eaglercraft.com/"
+  },
+  {
+    "nombre": "FastForward (Bypass Acortadores)",
+    "categoria": "🧩 Extensiones / Navegadores",
+    "descripcion": "Herramienta vital para evadir acortadores de enlaces molestos y rastreadores web. Te lleva directamente al destino final ahorrando tiempo y evitando publicidad maliciosa. Nota: Aunque el proyecto original fue descontinuado, su página web enlaza a las alternativas actuales y funcionales.",
+    "enlace": "https://fastforward.team/"
   }
 ]
