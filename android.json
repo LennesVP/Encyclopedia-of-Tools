@@ -1,0 +1,10 @@
+[
+  {
+    "nombre": "Minima Launcher",
+    "autor": "0-manbir",
+    "es_open_source": true,
+    "descripcion": "Un lanzador minimalista para Android enfocado en la productividad y en reducir la adicción al teléfono. Reemplaza la pantalla de inicio tradicional con una interfaz de texto extremadamente limpia.",
+    "ventajas": "✔️ Mejora la concentración y reduce tu tiempo de pantalla.\n✔️ Interfaz ultraligera y rápida (desarrollada en Flutter).\n✔️ Oculta iconos llamativos y notificaciones para evitar distracciones.\n✔️ Privacidad total al no requerir permisos innecesarios del sistema.",
+    "enlace": "https://github.com/0-manbir/minimalauncher"
+  }
+]
