@@ -7,5 +7,5 @@
     "carpeta": "Microsoft Office 2024 Professional Plus",
     "archivos": ["setup.exe", "Configuration.xml"],
     "comando_instalacion": "setup.exe /configure Configuration.xml"
-  },
+  }
 ]
