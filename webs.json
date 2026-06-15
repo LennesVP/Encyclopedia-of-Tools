@@ -16,5 +16,65 @@
     "categoria": "🧩 Extensiones / Navegadores",
     "descripcion": "Herramienta vital para evadir acortadores de enlaces molestos y rastreadores web. Te lleva directamente al destino final ahorrando tiempo y evitando publicidad maliciosa. Nota: Aunque el proyecto original fue descontinuado, su página web enlaza a las alternativas actuales y funcionales.",
     "enlace": "https://fastforward.team/"
+  },
+  {
+    "nombre": "AdGuard AdBlocker",
+    "categoria": "🧩 Extensiones / Navegadores",
+    "descripcion": "Excelente bloqueador de anuncios y rastreadores para navegadores basados en Chromium. Protege contra publicidad maliciosa, pop-ups y scripts de seguimiento, garantizando una navegación más limpia y rápida.",
+    "enlace": "https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg?hl=es"
+  },
+  {
+    "nombre": "Aegis Authenticator",
+    "categoria": "🔐 Seguridad / Privacidad",
+    "descripcion": "Aplicación gratuita, segura y de código abierto (Open Source) para gestionar tokens de verificación en dos pasos (2FA) en Android. Permite respaldos locales cifrados, garantizando control total sobre tu privacidad.",
+    "enlace": "https://getaegis.app/"
+  },
+  {
+    "nombre": "Aurora Store",
+    "categoria": "🤖 Android / Alternativas",
+    "descripcion": "Cliente de código abierto alternativo a la Google Play Store. Permite descargar aplicaciones de forma anónima, respetando la privacidad del usuario y sin requerir tener los Servicios de Google instalados en el teléfono.",
+    "enlace": "https://auroraoss.com/"
+  },
+  {
+    "nombre": "Bandicam",
+    "categoria": "🎬 Multimedia / Grabación",
+    "descripcion": "Potente software para captura de pantalla y grabación de video. Ideal para documentar tutoriales de soporte técnico, gameplays o capturar dispositivos externos (webcams, consolas) con alta compresión y calidad de imagen.",
+    "enlace": "https://www.bandicam.com/es/"
+  },
+  {
+    "nombre": "Bitwarden",
+    "categoria": "🔐 Seguridad / Privacidad",
+    "descripcion": "El gestor de contraseñas de código abierto más confiable del mercado. Permite almacenar, sincronizar y autocompletar credenciales de forma cifrada de extremo a extremo en todos los dispositivos.",
+    "enlace": "https://bitwarden.com/es-la/"
+  },
+  {
+    "nombre": "Blockify (Spotify Ad Blocker)",
+    "categoria": "🧩 Extensiones / Navegadores",
+    "descripcion": "Extensión especializada que bloquea los molestos anuncios de audio y video en la versión web de Spotify, Twitch, YouTube y otras plataformas, permitiendo una experiencia de escucha ininterrumpida.",
+    "enlace": "https://chromewebstore.google.com/detail/spotify-ad-blocker-blocki/nfmlkliedggdodlbgghmmchhgckjoaml"
+  },
+  {
+    "nombre": "Cluely AI",
+    "categoria": "🧠 Inteligencia Artificial",
+    "descripcion": "Asistente de inteligencia artificial indetectable para reuniones virtuales. Toma notas perfectas y proporciona respuestas o sugerencias en tiempo real de forma discreta para diversas plataformas de videollamada.",
+    "enlace": "https://cluely.com/"
+  },
+  {
+    "nombre": "Deep Hat (by Kindo)",
+    "categoria": "🧠 Inteligencia Artificial",
+    "descripcion": "Modelo de IA de ciberseguridad sin censura (anteriormente Whiterabbitneo). Diseñado para el razonamiento ofensivo, análisis de contexto extenso, pentesting y ejecución segura de herramientas de hacking.",
+    "enlace": "https://www.deephat.ai/"
+  },
+  {
+    "nombre": "CamScanner",
+    "categoria": "📄 Productividad / Ofimática",
+    "descripcion": "Herramienta líder para escanear documentos físicos utilizando la cámara del teléfono. Extrae texto inteligente (OCR), convierte formatos a PDF y permite la edición rápida de documentos sobre la marcha.",
+    "enlace": "https://www.camscanner.com/es-es"
+  },
+  {
+    "nombre": "Cheaf",
+    "categoria": "🛒 Compras / Estilo de Vida",
+    "descripcion": "Plataforma del movimiento anti-desperdicio con amplia presencia operativa en Colombia. Permite rescatar alimentos en perfecto estado de restaurantes y supermercados a una fracción de su precio original.",
+    "enlace": "https://www.cheaf.com/co/"
   }
 ]
