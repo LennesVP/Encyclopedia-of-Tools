@@ -76,5 +76,65 @@
     "categoria": "🛒 Compras / Estilo de Vida",
     "descripcion": "Plataforma del movimiento anti-desperdicio con amplia presencia operativa en Colombia. Permite rescatar alimentos en perfecto estado de restaurantes y supermercados a una fracción de su precio original.",
     "enlace": "https://www.cheaf.com/co/"
+  },
+  {
+    "nombre": "AirConsole",
+    "categoria": "🎮 Entretenimiento / Juegos",
+    "descripcion": "Consola de videojuegos en la nube. Permite jugar títulos multijugador en la pantalla de la computadora utilizando los teléfonos inteligentes como mandos a distancia. Ideal para reuniones y pausas activas.",
+    "enlace": "https://www.airconsole.com/"
+  },
+  {
+    "nombre": "Pexels",
+    "categoria": "🎨 Diseño / Multimedia",
+    "descripcion": "Un inmenso banco de imágenes y videos de stock gratuitos y libres de derechos de autor (royalty-free). Ideal para creadores de contenido, diseñadores y proyectos web.",
+    "enlace": "https://www.pexels.com/es-es/"
+  },
+  {
+    "nombre": "Animegafirex",
+    "categoria": "📺 Entretenimiento / Anime & Cine",
+    "descripcion": "Plataforma para la descarga y visualización de anime en alta calidad. Ofrece un catálogo actualizado con las series en emisión, películas destacadas y búsqueda avanzada.",
+    "enlace": "https://animegafirex.com/"
+  },
+  {
+    "nombre": "Japan Paw!",
+    "categoria": "📺 Entretenimiento / Anime & Cine",
+    "descripcion": "Comunidad y base de datos enfocada en la descarga de anime, películas y OVAs en formatos de altísima calidad (BD 1080p y 4K), conservando subtítulos y audios originales.",
+    "enlace": "https://japanpaw.com/"
+  },
+  {
+    "nombre": "trace.moe (Anime Scene Search)",
+    "categoria": "🛠️ Utilidades / Búsqueda",
+    "descripcion": "Un motor de búsqueda inverso impulsado por Inteligencia Artificial. Sube la captura de pantalla de un anime y descubre instantáneamente de qué serie, episodio y minuto exacto proviene la escena.",
+    "enlace": "https://trace.moe/"
+  },
+  {
+    "nombre": "TV Time",
+    "categoria": "📱 Estilo de Vida / Tracking",
+    "descripcion": "La red social definitiva para amantes del cine y la televisión. Permite llevar un registro exacto de los episodios vistos, recibir notificaciones de estrenos y descubrir en qué plataformas de streaming están disponibles.",
+    "enlace": "https://www.tvtime.com/es"
+  },
+  {
+    "nombre": "Fukou-Da!",
+    "categoria": "📺 Entretenimiento / Anime & Cine",
+    "descripcion": "Plataforma dedicada a la distribución de anime en descarga directa (DD), novelas ligeras y contenido relacionado con fansubs de alta calidad.",
+    "enlace": "https://fukou-da.net/"
+  },
+  {
+    "nombre": "Hackstore2",
+    "categoria": "📺 Entretenimiento / Anime & Cine",
+    "descripcion": "Amplio catálogo para la descarga de películas de estreno, series y anime. Destaca por organizar el contenido por año, calidad y ofrecer múltiples opciones de servidores.",
+    "enlace": "https://hackstore2.com/"
+  },
+  {
+    "nombre": "Vampir no Fansub",
+    "categoria": "📺 Entretenimiento / Anime & Cine",
+    "descripcion": "Grupo de traducción (Fansub) independiente. Ofrece descargas de proyectos de anime trabajados meticulosamente con subtítulos de alta calidad y correcciones de video.",
+    "enlace": "https://vampirnofansubs2.wordpress.com/"
+  },
+  {
+    "nombre": "Ivanime",
+    "categoria": "📺 Entretenimiento / Anime & Cine",
+    "descripcion": "Portal especializado en descargas de anime Full HD ligero y en emisión. Ideal para armar colecciones digitales (BD/HQ) ocupando menos espacio en el disco duro.",
+    "enlace": "https://www.ivanime.com/"
   }
 ]
