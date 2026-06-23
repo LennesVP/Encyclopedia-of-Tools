@@ -102,5 +102,21 @@
     "ventajas": "TRUCO TÉCNICO: No requiere instalar ningún servidor ni programa en la computadora. El PC o Smart TV detecta tu celular nativamente como si fuera un teclado Bluetooth de hardware. Ideal para reparar equipos.",
     "es_open_source": false,
     "enlace": "https://play.google.com/store/apps/details?id=com.jb.bluetoothbuttons&hl=es_CO"
+  },
+  {
+    "nombre": "QR Code Scanner - Scan WiFi QR",
+    "autor": "CrownApps2022",
+    "descripcion": "Lector de códigos QR y códigos de barras desarrollado por CrownApps2022.",
+    "ventajas": "Te permite escanear códigos QR de redes WiFi para conectarte al instante o ver su información, además de permitirte compartir ubicaciones y escanear productos.",
+    "es_open_source": false,
+    "enlace": "https://play.google.com/store/apps/details?id=crown.qrcodescanner.barcodescanner.qrscanner.wifiqrcode.passwordscanner"
+  },
+  {
+    "nombre": "Zapia (Asistente IA)",
+    "autor": "Zapia",
+    "descripcion": "Zapia se presenta como la IA que hace las cosas por ti, ayudándote a recuperar el control de tu día.",
+    "ventajas": "Es una IA que ejecuta tareas directamente: monitorea precios, responde tu WhatsApp, organiza tu agenda, hace reservas y mucho más.",
+    "es_open_source": false,
+    "enlace": "https://zapia.com/?lang=es"
   }
 ]
