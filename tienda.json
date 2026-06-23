@@ -73,11 +73,10 @@
   },
   {
     "producto": "Microsoft Office 2024 Professional Plus",
-    "tipo_licencia": "Permanente (Retail/OEM)",
-    "equipos_permitidos": "1 PC",
-    "duracion": "De por vida en un solo equipo",
-    "precio_euros": 50.00,
-    "categoria": "Productividad y Ofimática",
-    "descripcion": "Clave de activación permanente para la suite completa de Microsoft Office 2024 Pro Plus, válida para instalación en un único ordenador."
+    "precio_oficial": "Valor de la Licencia:",
+    "precio_tremend": "€50 EUR (Aprox. $215,000 COP)",
+    "descripcion": "La suite completa de productividad y ofimática de Microsoft. Incluye las versiones más recientes de Word, Excel, PowerPoint, Outlook y Access.",
+    "caracteristicas": "✔️ Licencia Permanente (Retail/OEM de por vida).\n✔️ Válida para activación completa en 1 solo PC.\n✔️ Sin suscripciones mensuales ni pagos ocultos.",
+    "advertencia": "⚠️ MÉTODO DE ENTREGA: Al realizar la compra mediante WhatsApp, recibirás la clave alfanumérica de activación oficial (Serial Key) y los enlaces de descarga directa."
   }
 ]
