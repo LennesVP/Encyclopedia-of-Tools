@@ -232,5 +232,17 @@
     "categoria": "Desarrollo y Finanzas",
     "descripcion": "Software especializado para empresas y desarrolladores Fintech. Ofrece integración y simulación de pagos con el estándar internacional ISO8583, permitiendo probar transacciones y enrutamientos en terminales POS.",
     "enlace": "https://neapay.com/"
+  },
+  {
+    "nombre": "Modrinth (Mods de Minecraft)",
+    "categoria": "Juegos y Servidores",
+    "descripcion": "El lugar ideal para servidores de Minecraft. Es una plataforma moderna y de código abierto para descubrir, jugar y compartir contenido de Minecraft.",
+    "enlace": "https://modrinth.com/"
+  },
+  {
+    "nombre": "Mullvad VPN",
+    "categoria": "Privacidad y Anonimato",
+    "descripcion": "Servicio de VPN sueco diseñado bajo la convicción de que la privacidad es para las personas. Su filosofía advierte que si las personas no pueden decidir con quién comparten sus ideas, los demás derechos están en peligro.",
+    "enlace": "https://mullvad.net/es"
   }
 ]
