@@ -142,5 +142,59 @@
     "categoria": "Inteligencia Artificial",
     "descripcion": "IA avanzada de nivel universitario para resolver ecuaciones complejas paso a paso. \n\n⚠️ TRUCO DE USO INFINITO: Te bloquean tras el primer intento para que pagues. Para saltar el bloqueo: haz clic en el ícono a la izquierda de la URL (arriba en el navegador), selecciona 'Cookies y datos del sitio', elimínalas y recarga la página (F5). Tendrás otro intento gratis indefinidamente.",
     "enlace": "https://www.mathgptpro.com/es"
+  },
+  {
+    "nombre": "Deep Hat v2 / Kindo (Pentesting con IA)",
+    "categoria": "Inteligencia Artificial",
+    "descripcion": "Inteligencia Artificial especializada (antes Whiterabbitneo) diseñada para el razonamiento ofensivo real, análisis de vulnerabilidades y ciberseguridad sin filtros ni censuras corporativas.",
+    "enlace": "https://www.deephat.ai/"
+  },
+  {
+    "nombre": "IntelBase (OSINT y Filtraciones)",
+    "categoria": "Ciberseguridad",
+    "descripcion": "Plataforma de inteligencia de fuentes abiertas (OSINT). Permite rastrear direcciones de correo electrónico para descubrir exactamente en qué brechas de seguridad o bases de datos han sido filtradas.",
+    "enlace": "https://intelbase.is/"
+  },
+  {
+    "nombre": "VirusTotal (Escáner de Malware)",
+    "categoria": "Ciberseguridad",
+    "descripcion": "El estándar de oro en análisis de virus. Permite subir cualquier archivo dudoso, instalador o enlace web para ser analizado simultáneamente por más de 70 motores antivirus diferentes en segundos.",
+    "enlace": "https://www.virustotal.com/gui/home/upload"
+  },
+  {
+    "nombre": "Incogni (Eliminación de Datos)",
+    "categoria": "Privacidad y Anonimato",
+    "descripcion": "Servicio automatizado que se encarga de obligar legalmente a los 'Data Brokers' (corredores de datos) a borrar tu información personal de sus bases de datos para evitar el acoso en línea y el spam.",
+    "enlace": "https://incogni.com/"
+  },
+  {
+    "nombre": "DeleteMe (Protección de Identidad)",
+    "categoria": "Privacidad y Anonimato",
+    "descripcion": "Servicio premium de privacidad que rastrea y elimina activamente tu información personal (nombres, direcciones, teléfonos) de los motores de búsqueda y sitios web de venta de datos.",
+    "enlace": "https://joindeleteme.com/"
+  },
+  {
+    "nombre": "IVPN (Privacidad Extrema)",
+    "categoria": "Privacidad y Anonimato",
+    "descripcion": "Servicio VPN ultraseguro enfocado en la resistencia a la vigilancia en línea. Cuenta con un bloqueador nativo de rastreadores (AntiTracker) y auditorías públicas que demuestran su política estricta de no guardar registros (No-Logs).",
+    "enlace": "https://www.ivpn.net/es/"
+  },
+  {
+    "nombre": "Hushed (Números Temporales)",
+    "categoria": "Privacidad y Anonimato",
+    "descripcion": "Crea números de teléfono secundarios, privados o desechables ('burner phones') para realizar llamadas o registrarte en aplicaciones como WhatsApp o Telegram sin revelar tu número telefónico real.",
+    "enlace": "https://hushed.com/"
+  },
+  {
+    "nombre": "iFixit (Manuales de Reparación)",
+    "categoria": "Soporte Técnico",
+    "descripcion": "La biblioteca gratuita más grande del mundo sobre reparación de hardware. Contiene miles de guías paso a paso para desarmar, diagnosticar y reparar celulares, laptops, consolas y electrodomésticos.",
+    "enlace": "https://es.ifixit.com/"
+  },
+  {
+    "nombre": "DeepL Translator",
+    "categoria": "Inteligencia Artificial",
+    "descripcion": "Considerado el traductor impulsado por IA más preciso del mercado. Es capaz de traducir textos técnicos complejos, PDFs y documentos de Office preservando el contexto y la gramática natural mucho mejor que otras alternativas.",
+    "enlace": "https://www.deepl.com/es/translator"
   }
 ]
