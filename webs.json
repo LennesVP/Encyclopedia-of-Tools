@@ -196,5 +196,41 @@
     "categoria": "Inteligencia Artificial",
     "descripcion": "Considerado el traductor impulsado por IA más preciso del mercado. Es capaz de traducir textos técnicos complejos, PDFs y documentos de Office preservando el contexto y la gramática natural mucho mejor que otras alternativas.",
     "enlace": "https://www.deepl.com/es/translator"
+  },
+  {
+    "nombre": "NextDNS (Firewall y Filtro DNS)",
+    "categoria": "Privacidad y Seguridad",
+    "descripcion": "Actúa como un firewall moderno para todos tus dispositivos. Protege contra amenazas de seguridad y bloquea anuncios y rastreadores en sitios web y aplicaciones directamente a nivel de red.",
+    "enlace": "https://nextdns.io/"
+  },
+  {
+    "nombre": "Temp Mail (Correos Desechables)",
+    "categoria": "Privacidad y Anonimato",
+    "descripcion": "Genera direcciones de correo electrónico temporales, seguras y anónimas al instante. Es la herramienta perfecta para registrarte en sitios web dudosos evitando el spam y el robo de datos en tu correo real.",
+    "enlace": "https://temp-mail.org/es/"
+  },
+  {
+    "nombre": "Redact (Eliminación Masiva en Redes)",
+    "categoria": "Privacidad y Anonimato",
+    "descripcion": "Software poderoso que te permite automatizar la eliminación masiva de tu contenido, publicaciones, comentarios y mensajes de casi todas las plataformas (Discord, Twitter, Reddit, etc.) en minutos.",
+    "enlace": "https://redact.dev/"
+  },
+  {
+    "nombre": "Quad9 (DNS de Alta Privacidad)",
+    "categoria": "Ciberseguridad",
+    "descripcion": "Servicio de resolución DNS gratuito y público. Bloquea el acceso a sitios web maliciosos conocidos, protegiendo tu navegación contra malware y phishing sin guardar registros de tus datos personales.",
+    "enlace": "https://quad9.net/es/"
+  },
+  {
+    "nombre": "Proton VPN (Privacidad Suiza)",
+    "categoria": "Privacidad y Anonimato",
+    "descripcion": "VPN de alta velocidad creada por los científicos del CERN detrás de Proton Mail. Ofrece una estricta política de no guardar registros (no-logs), cifrado fuerte y una versión gratuita ilimitada y sin anuncios.",
+    "enlace": "https://protonvpn.com/es-419"
+  },
+  {
+    "nombre": "neaPay (Simulación de Pagos ISO8583)",
+    "categoria": "Desarrollo y Finanzas",
+    "descripcion": "Software especializado para empresas y desarrolladores Fintech. Ofrece integración y simulación de pagos con el estándar internacional ISO8583, permitiendo probar transacciones y enrutamientos en terminales POS.",
+    "enlace": "https://neapay.com/"
   }
 ]
