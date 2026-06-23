@@ -6,5 +6,37 @@
     "descripcion": "Un lanzador minimalista para Android enfocado en la productividad y en reducir la adicción al teléfono. Reemplaza la pantalla de inicio tradicional con una interfaz de texto extremadamente limpia.",
     "ventajas": "✔️ Mejora la concentración y reduce tu tiempo de pantalla.\n✔️ Interfaz ultraligera y rápida (desarrollada en Flutter).\n✔️ Oculta iconos llamativos y notificaciones para evitar distracciones.\n✔️ Privacidad total al no requerir permisos innecesarios del sistema.",
     "enlace": "https://github.com/0-manbir/minimalauncher"
+  },
+  {
+    "nombre": "Escáner QR y de barras",
+    "autor": "TeaCapps",
+    "descripcion": "Lector de códigos QR y de barras ultrarrápido y ligero. Escanea cualquier formato al instante con la cámara del celular.",
+    "ventajas": "Guarda un historial automático de todos tus escaneos, permite crear QRs propios y es compatible con todos los formatos estándar de códigos de barras.",
+    "es_open_source": false,
+    "enlace": "https://play.google.com/store/apps/details?id=com.teacapps.barcodescanner"
+  },
+  {
+    "nombre": "IMEI COLOMBIA",
+    "autor": "Andres Inguilan",
+    "descripcion": "Consulta el estado del código IMEI de cualquier dispositivo móvil directamente en las bases de datos oficiales de Colombia.",
+    "ventajas": "Verifica al instante si un celular está reportado por robo, pérdida o mora. Cuenta con historial de consultas integrado. Una herramienta obligatoria para técnicos de celulares.",
+    "es_open_source": false,
+    "enlace": "https://play.google.com/store/apps/details?id=appinventor.ai_ANDING1111.ImeiCheck&hl=es_CO"
+  },
+  {
+    "nombre": "Kawaii Animes (APK Oficial)",
+    "autor": "Kawaii Animes",
+    "descripcion": "La versión completa y sin restricciones de la plataforma Kawaii Animes para ver y descargar series en máxima calidad.",
+    "ventajas": "Al instalar esta APK por fuera de la tienda oficial, obtienes toda la experiencia completa, sin censura ni limitaciones, con actualizaciones de episodios diarios.",
+    "es_open_source": false,
+    "enlace": "https://www.kawaiianimes.app/"
+  },
+  {
+    "nombre": "Mathos AI (Matemáticas con IA)",
+    "autor": "MathGPTPro",
+    "descripcion": "Potente inteligencia artificial que resuelve problemas matemáticos complejos paso a paso con solo tomarles una foto.",
+    "ventajas": "⚠️ TRUCO DE USO INFINITO: La app te cobra después del primer intento gratis. Para usarla ilimitadamente sin pagar, ve a los 'Ajustes' de tu celular > Aplicaciones > Mathos AI > 'Almacenamiento' y dale a 'Borrar Datos'. Al volver a entrar, tendrás tu intento gratis renovado.",
+    "es_open_source": false,
+    "enlace": "https://play.google.com/store/apps/details?id=com.mathgptpro.mclient&hl=es_CO"
   }
 ]
