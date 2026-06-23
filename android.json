@@ -38,5 +38,69 @@
     "ventajas": "⚠️ TRUCO DE USO INFINITO: La app te cobra después del primer intento gratis. Para usarla ilimitadamente sin pagar, ve a los 'Ajustes' de tu celular > Aplicaciones > Mathos AI > 'Almacenamiento' y dale a 'Borrar Datos'. Al volver a entrar, tendrás tu intento gratis renovado.",
     "es_open_source": false,
     "enlace": "https://play.google.com/store/apps/details?id=com.mathgptpro.mclient&hl=es_CO"
+  },
+  {
+    "nombre": "Metrolist (YouTube Music Client)",
+    "autor": "metrolistgroup",
+    "descripcion": "Cliente alternativo de YouTube Music para Android, centrado en la máxima privacidad y libre de anuncios.",
+    "ventajas": "Permite reproducción de música en segundo plano, descarga para escuchar sin conexión (offline) y usa el hermoso diseño 'Material You', todo sin necesidad de cuentas premium ni rastreadores.",
+    "es_open_source": true,
+    "enlace": "https://github.com/metrolistgroup/metrolist"
+  },
+  {
+    "nombre": "Proton Mail: Correo cifrado",
+    "autor": "Proton AG",
+    "descripcion": "Servicio de correo electrónico de alta seguridad con sede en Suiza. Protege tus comunicaciones con cifrado de extremo a extremo.",
+    "ventajas": "Privacidad absoluta. Nadie (ni siquiera Proton) puede leer tus correos. Libre de rastreadores, bloquea intentos de phishing y su código está auditado públicamente.",
+    "es_open_source": true,
+    "enlace": "https://play.google.com/store/apps/details?id=ch.protonmail.android&hl=es_CO"
+  },
+  {
+    "nombre": "Proton Pass: Password Manager",
+    "autor": "Proton AG",
+    "descripcion": "Gestor de contraseñas ultraseguro y de código abierto, creado por el equipo de científicos del CERN detrás de Proton Mail.",
+    "ventajas": "Autocompletado nativo en Android, generador de contraseñas fuertes y creación de 'Alias' de correo (hide-my-email) para registrarte en sitios web sin dar tu correo real y evitar el spam.",
+    "es_open_source": true,
+    "enlace": "https://play.google.com/store/apps/details?id=proton.android.pass&hl=es_CO"
+  },
+  {
+    "nombre": "Rutas del MIO",
+    "autor": "MOVILIXA SAS",
+    "descripcion": "Aplicación indispensable para la movilidad en la ciudad de Cali y sus zonas aledañas. Integra todo el sistema de transporte masivo.",
+    "ventajas": "Permite planificar viajes con GPS, ver los mapas de las estaciones, consultar el saldo de las tarjetas y calcular el trayecto más rápido en tiempo real.",
+    "es_open_source": false,
+    "enlace": "https://play.google.com/store/apps/details?id=com.movilixa.rutasmio&hl=es_CO"
+  },
+  {
+    "nombre": "Seal (Descargador yt-dlp)",
+    "autor": "JunkFood02",
+    "descripcion": "Potente descargador de video y audio para Android basado en el legendario motor de extracción yt-dlp.",
+    "ventajas": "Soporta descargas de miles de plataformas en máxima calidad. Permite extraer audio puro, incrustar subtítulos, agregar metadatos y tiene una interfaz moderna con colores dinámicos.",
+    "es_open_source": true,
+    "enlace": "https://github.com/JunkFood02/Seal"
+  },
+  {
+    "nombre": "Speedtest de Ookla",
+    "autor": "Ookla",
+    "descripcion": "El estándar mundial para medir la velocidad de tu conexión a internet, ya sea por Wi-Fi o red móvil.",
+    "ventajas": "Mide Ping (latencia), velocidad de descarga, velocidad de subida y pérdida de paquetes. Incluye mapas de cobertura de señal móvil y VPN gratuita integrada.",
+    "es_open_source": false,
+    "enlace": "https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest&hl=es_CO"
+  },
+  {
+    "nombre": "TV Time: Seguir series y pelis",
+    "autor": "Whip Networks",
+    "descripcion": "La herramienta definitiva para cinéfilos. Lleva un registro exacto de los capítulos y películas que has visto o quieres ver.",
+    "ventajas": "Te envía alertas cuando se estrenan nuevos episodios, te permite calificar series, votar por tus personajes favoritos y organizar tu tiempo de entretenimiento visual.",
+    "es_open_source": false,
+    "enlace": "https://play.google.com/store/apps/details?id=com.tozelabs.tvshowtime&hl=es"
+  },
+  {
+    "nombre": "Teclado Bluetooth VB +",
+    "autor": "JB Mobisoft",
+    "descripcion": "Convierte tu teléfono celular en un teclado y ratón Bluetooth físico real para controlar cualquier dispositivo.",
+    "ventajas": "TRUCO TÉCNICO: No requiere instalar ningún servidor ni programa en la computadora. El PC o Smart TV detecta tu celular nativamente como si fuera un teclado Bluetooth de hardware. Ideal para reparar equipos.",
+    "es_open_source": false,
+    "enlace": "https://play.google.com/store/apps/details?id=com.jb.bluetoothbuttons&hl=es_CO"
   }
 ]
