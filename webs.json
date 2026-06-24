@@ -244,5 +244,17 @@
     "categoria": "Privacidad y Anonimato",
     "descripcion": "Servicio de VPN sueco diseñado bajo la convicción de que la privacidad es para las personas. Su filosofía advierte que si las personas no pueden decidir con quién comparten sus ideas, los demás derechos están en peligro.",
     "enlace": "https://mullvad.net/es"
+  },
+  {
+    "nombre": "Jitsi Meet (Videoconferencias Seguras)",
+    "categoria": "Privacidad y Comunicaciones",
+    "descripcion": "Plataforma de código abierto para realizar reuniones seguras y de alta calidad directamente desde el navegador. No requiere registro ni instalación de software invasivo, garantizando comunicaciones rápidas y confidenciales.",
+    "enlace": "https://meet.jit.si/"
+  },
+  {
+    "nombre": "Reptilix (IA para Ciberseguridad)",
+    "categoria": "Ciberseguridad",
+    "descripcion": "Inteligencia artificial privada diseñada exclusivamente para profesionales de la ciberseguridad. Ideal para tareas avanzadas de pentesting, OSINT, análisis y Red Team, proporcionando respuestas técnicas directas sin los filtros genéricos de otras IAs comerciales.",
+    "enlace": "https://reptilix.com/"
   }
 ]
