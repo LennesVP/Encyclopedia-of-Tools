@@ -126,5 +126,13 @@
     "ventajas": "Perfecta si usas múltiples aplicaciones de Inteligencia Artificial (como ChatGPT, Gemini o Claude) y deseas cambiar cuál responde por defecto a tus comandos del sistema con un solo toque, sin menús complicados.",
     "es_open_source": true,
     "enlace": "https://github.com/WSTxda/SwitchAI"
+  },
+  {
+    "nombre": "Shizuku (Gestor de Permisos de Sistema)",
+    "autor": "RikkaApps",
+    "descripcion": "Una herramienta revolucionaria de código abierto que permite a aplicaciones de terceros utilizar directamente APIs del sistema de Android mediante privilegios de ADB o Root.",
+    "ventajas": "Te permite otorgar permisos súper avanzados a otras aplicaciones de personalización, automatización o mantenimiento (como congelar bloatware o modificar la interfaz de usuario) sin la necesidad de rootear el dispositivo, utilizando únicamente la depuración inalámbrica.",
+    "es_open_source": true,
+    "enlace": "https://github.com/rikkaapps/shizuku"
   }
 ]
