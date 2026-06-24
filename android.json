@@ -166,5 +166,13 @@
     "ventajas": "Imprescindible para audiófilos. Te permite ajustar el volumen al milímetro e incluye un ecualizador gráfico con más de 6000 perfiles preconfigurados para adaptar el sonido perfectamente a modelos específicos de auriculares.",
     "es_open_source": true,
     "enlace": "https://github.com/nulldio/32steps"
+  },
+  {
+    "nombre": "Firefox Focus (Navegador Privado)",
+    "autor": "Mozilla",
+    "descripcion": "Navegador móvil ultraligero diseñado exclusivamente para la privacidad extrema, con protección automática e implacable contra el rastreo en línea.",
+    "ventajas": "Bloquea rastreadores web de forma nativa, acelera la carga de las páginas al no descargar scripts basura y cuenta con un botón de 'Papelera' que elimina instantáneamente tu historial, búsquedas y cookies con un solo toque.",
+    "es_open_source": true,
+    "enlace": "https://www.firefox.com/es-ES/mobile/focus/"
   }
 ]
