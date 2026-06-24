@@ -142,5 +142,13 @@
     "ventajas": "Transforma tu celular o tablet en una consola de PC portátil. Sincroniza tus cuentas oficiales para descargar y correr tus juegos de computadora en la palma de tu mano sin depender del juego en la nube.",
     "es_open_source": true,
     "enlace": "https://github.com/utkarshdalal/GameNative"
+  },
+  {
+    "nombre": "Haven (Vigilancia Privada y Sensores)",
+    "autor": "Guardian Project",
+    "descripcion": "Aplicación de código abierto diseñada para proteger tus espacios personales y pertenencias sin comprometer tu privacidad, utilizando los sensores nativos del dispositivo.",
+    "ventajas": "Convierte cualquier teléfono Android viejo o de repuesto en un sistema de seguridad avanzado. Utiliza la cámara, el micrófono y el acelerómetro del dispositivo para detectar intrusos o movimientos, enviando alertas cifradas si alguien entra a tu habitación o toca tus equipos.",
+    "es_open_source": true,
+    "enlace": "https://github.com/guardianproject/haven"
   }
 ]
