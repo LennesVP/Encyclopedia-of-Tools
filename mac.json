@@ -1,0 +1,10 @@
+[
+  {
+    "nombre": "Little Snitch (Firewall Interactivo)",
+    "autor": "Objective Development",
+    "descripcion": "El monitor de red y firewall interactivo definitivo para macOS. Te alerta en tiempo real cuando cualquier programa intenta conectarse a internet.",
+    "ventajas": "Tú decides qué aplicaciones pueden comunicarse y cuáles no. Ideal para descubrir software espía, bloquear rastreadores y evitar que tu información salga del equipo sin tu permiso explícito.",
+    "es_open_source": false,
+    "enlace": "https://obdev.at/products/littlesnitch/index.html"
+  }
+]
