@@ -150,5 +150,13 @@
     "ventajas": "Convierte cualquier teléfono Android viejo o de repuesto en un sistema de seguridad avanzado. Utiliza la cámara, el micrófono y el acelerómetro del dispositivo para detectar intrusos o movimientos, enviando alertas cifradas si alguien entra a tu habitación o toca tus equipos.",
     "es_open_source": true,
     "enlace": "https://github.com/guardianproject/haven"
+  },
+  {
+    "nombre": "InstallWithOptions (Instalador ADB)",
+    "autor": "Zacharee",
+    "descripcion": "Aplicación de código abierto que utiliza los privilegios de Shizuku para forzar la instalación de archivos APK con opciones avanzadas de sistema.",
+    "ventajas": "Ideal para técnicos. Permite hacer 'downgrade' (instalar versiones antiguas sobre nuevas), ignorar bloqueos de compatibilidad e instalar aplicaciones de sistema evadiendo las restricciones nativas del instalador de Android. Requiere Shizuku activo.",
+    "es_open_source": true,
+    "enlace": "https://github.com/zacharee/InstallWithOptions"
   }
 ]
