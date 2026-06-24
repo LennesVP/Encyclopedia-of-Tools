@@ -118,5 +118,13 @@
     "ventajas": "Es una IA que ejecuta tareas directamente: monitorea precios, responde tu WhatsApp, organiza tu agenda, hace reservas y mucho más.",
     "es_open_source": false,
     "enlace": "https://zapia.com/?lang=es"
+  },
+  {
+    "nombre": "SwitchAI (Gestor de Asistentes IA)",
+    "autor": "WSTxda",
+    "descripcion": "Una fantástica utilidad de código abierto que te permite seleccionar, alternar y gestionar rápidamente tu asistente digital de IA preferido en tu dispositivo Android.",
+    "ventajas": "Perfecta si usas múltiples aplicaciones de Inteligencia Artificial (como ChatGPT, Gemini o Claude) y deseas cambiar cuál responde por defecto a tus comandos del sistema con un solo toque, sin menús complicados.",
+    "es_open_source": true,
+    "enlace": "https://github.com/WSTxda/SwitchAI"
   }
 ]
