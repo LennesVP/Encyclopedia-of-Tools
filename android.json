@@ -158,5 +158,13 @@
     "ventajas": "Ideal para técnicos. Permite hacer 'downgrade' (instalar versiones antiguas sobre nuevas), ignorar bloqueos de compatibilidad e instalar aplicaciones de sistema evadiendo las restricciones nativas del instalador de Android. Requiere Shizuku activo.",
     "es_open_source": true,
     "enlace": "https://github.com/zacharee/InstallWithOptions"
+  },
+  {
+    "nombre": "32steps (Control de Volumen Avanzado)",
+    "autor": "nulldio",
+    "descripcion": "Aplicación de código abierto que anula los pasos de volumen predeterminados del sistema Android, permitiéndote establecer un número de pasos personalizado para un control de audio ultra preciso.",
+    "ventajas": "Imprescindible para audiófilos. Te permite ajustar el volumen al milímetro e incluye un ecualizador gráfico con más de 6000 perfiles preconfigurados para adaptar el sonido perfectamente a modelos específicos de auriculares.",
+    "es_open_source": true,
+    "enlace": "https://github.com/nulldio/32steps"
   }
 ]
