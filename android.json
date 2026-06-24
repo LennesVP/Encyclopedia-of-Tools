@@ -134,5 +134,13 @@
     "ventajas": "Te permite otorgar permisos súper avanzados a otras aplicaciones de personalización, automatización o mantenimiento (como congelar bloatware o modificar la interfaz de usuario) sin la necesidad de rootear el dispositivo, utilizando únicamente la depuración inalámbrica.",
     "es_open_source": true,
     "enlace": "https://github.com/rikkaapps/shizuku"
+  },
+  {
+    "nombre": "GameNative (PC Gaming en Android)",
+    "autor": "utkarshdalal",
+    "descripcion": "Proyecto revolucionario que permite la ejecución de juegos nativos de PC directamente en dispositivos Android, integrando tus bibliotecas de Steam, Epic Games, GOG y Amazon.",
+    "ventajas": "Transforma tu celular o tablet en una consola de PC portátil. Sincroniza tus cuentas oficiales para descargar y correr tus juegos de computadora en la palma de tu mano sin depender del juego en la nube.",
+    "es_open_source": true,
+    "enlace": "https://github.com/utkarshdalal/GameNative"
   }
 ]
