@@ -256,5 +256,11 @@
     "categoria": "Ciberseguridad",
     "descripcion": "Inteligencia artificial privada diseñada exclusivamente para profesionales de la ciberseguridad. Ideal para tareas avanzadas de pentesting, OSINT, análisis y Red Team, proporcionando respuestas técnicas directas sin los filtros genéricos de otras IAs comerciales.",
     "enlace": "https://reptilix.com/"
+  },
+  {
+    "nombre": "Convert WebP to JPG",
+    "categoria": "Extensiones",
+    "descripcion": "Añade un botón al menú de clic derecho del navegador para guardar directamente en formato JPG o PNG esas molestas imágenes que vienen bloqueadas en WebP.",
+    "enlace": "https://chromewebstore.google.com/detail/convert-webp-to-jpg/hhjekjfamffkdhmcijiijfflinnoibob"
   }
 ]
