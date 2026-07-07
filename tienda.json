@@ -70,5 +70,47 @@
     "descripcion": "La suite definitiva de ofimática para profesionales y estudiantes. Aumenta tu productividad al máximo con las versiones más modernas de Word, Excel y PowerPoint, olvidándote para siempre de las molestas suscripciones mensuales o anuales.",
     "caracteristicas": "✔️ Licencia Original y Permanente (Pago único de por vida).\n✔️ Válida para activación completa en 1 solo ordenador.\n✔️ Incluye la suite completa: Word, Excel, PowerPoint, Outlook, Access y Publisher.\n✔️ Actualizaciones de seguridad oficiales directamente desde los servidores de Microsoft.",
     "advertencia": "⚠️ MÉTODO DE ENTREGA: Al realizar la compra mediante WhatsApp, recibirás la clave alfanumérica de activación (Serial Key) oficial directamente en tu chat, junto con las instrucciones y el enlace de descarga directa de Microsoft."
+  },
+  {
+    "producto": "EaseUS Data Recovery Wizard Pro (Lifetime)",
+    "precio_tremend": "150 €",
+    "descripcion": "El software de recuperación de datos más potente del mercado. Rescata archivos borrados, discos formateados o particiones dañadas con una tasa de éxito inigualable.",
+    "caracteristicas": "✅ Licencia válida para 1 PC.\n✅ Actualizaciones de por vida (Lifetime Upgrades) garantizadas.\n✅ Recupera documentos, fotos, correos y videos de Discos Duros, SSDs y USBs.",
+    "advertencia": "Licencia atada a 1 solo ordenador. En caso de formatear el mismo PC, la licencia se puede reactivar."
+  },
+  {
+    "producto": "Ashampoo Office 9",
+    "precio_tremend": "50 €",
+    "descripcion": "La alternativa definitiva a Microsoft Office. Un paquete ofimático rápido, ligero y profesional, sin necesidad de pagar suscripciones mensuales.",
+    "caracteristicas": "✅ Incluye Procesador de textos, Hoja de cálculo y Presentaciones.\n✅ Total compatibilidad con formatos originales de MS Word, Excel y PowerPoint.\n✅ Instalación de pago único.",
+    "advertencia": "Licencia permanente. No caduca ni requiere pagos anuales."
+  },
+  {
+    "producto": "Ashampoo PDF Pro 5",
+    "precio_tremend": "50 €",
+    "descripcion": "El editor de PDF todo en uno. Te permite leer, crear, editar y proteger documentos PDF con la misma facilidad con la que escribes en Word.",
+    "caracteristicas": "✅ Edición profunda de texto, imágenes y diseño en cualquier PDF.\n✅ Unión de múltiples archivos y encriptación de seguridad.\n✅ Función OCR para reconocer texto en documentos escaneados.",
+    "advertencia": "El software de edición es de pago único y permanente."
+  },
+  {
+    "producto": "SwifDoo PDF (Lifetime)",
+    "precio_tremend": "100 €",
+    "descripcion": "Solución de gestión de PDF ultrarrápida y versátil. Ideal para usuarios que necesitan modificar o firmar documentos de manera ágil sin consumir los recursos del sistema.",
+    "caracteristicas": "✅ Válido para 1 dispositivo (A elegir entre PC o Mac).\n✅ Licencia Vitalicia (Para toda la vida).\n✅ Conversión instantánea de PDF a formatos de Word, Excel, CAD e Imágenes.",
+    "advertencia": "Debes elegir si activarás la licencia en un entorno Windows o en un ecosistema Mac."
+  },
+  {
+    "producto": "EaseUS PDF Editor (Lifetime)",
+    "precio_tremend": "80 €",
+    "descripcion": "Software de edición premium diseñado por EaseUS. Combina un lector, un creador y un editor avanzado para flujos de trabajo corporativos.",
+    "caracteristicas": "✅ Actualizaciones de por vida incluidas.\n✅ Herramientas de colaboración, comentarios y firmas digitales.\n✅ Compresión de PDFs pesados sin pérdida de calidad visual.",
+    "advertencia": "Pago único con soporte y mejoras futuras incluidas por el fabricante."
+  },
+  {
+    "producto": "EaseUS Video Downloader (Lifetime)",
+    "precio_tremend": "50 €",
+    "descripcion": "Potente motor de descarga multimedia. Te permite bajar videos, listas de reproducción completas y canales enteros de cualquier plataforma de internet.",
+    "caracteristicas": "✅ ¡Megapack! Licencia multi-equipo válida para 3 ordenadores.\n✅ Actualizaciones de por vida incluidas.\n✅ Soporta descarga en máxima resolución (4K/8K) y extracción de audio a MP3.",
+    "advertencia": "Excelente para compartir el costo de la licencia con otros 2 colegas o familiares."
   }
 ]
