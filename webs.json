@@ -268,5 +268,29 @@
     "categoria": "Inteligencia Artificial",
     "descripcion": "Herramienta avanzada para eliminar la censura de modelos de lenguaje (LLMs) locales usando abliteración automática, sin necesidad de reentrenamiento.",
     "enlace": "https://github.com/p-e-w/heretic"
+  },
+  {
+    "nombre": "ANY.RUN (Malware Sandbox)",
+    "categoria": "🛡️ Ciberseguridad / Forense",
+    "descripcion": "Entorno virtual interactivo en la nube. Sube un archivo sospechoso o un enlace dudoso y ejecútalo en una PC virtual segura para ver en tiempo real si es un virus, sin poner en riesgo tu equipo real.",
+    "enlace": "https://any.run/"
+  },
+  {
+    "nombre": "ToolFK (Mega-Herramientas Online)",
+    "categoria": "🛠️ Utilidades / Inteligencia Artificial",
+    "descripcion": "Plataforma gratuita masiva con cientos de utilidades. Incluye generadores de video e imágenes por IA, edición avanzada de PDFs, formateo de código (JSON/JS) y conversores web.",
+    "enlace": "https://www.toolfk.com/es/"
+  },
+  {
+    "nombre": "Skidrow & Reloaded Games",
+    "categoria": "🏴‍☠️ Videojuegos / Scene PC",
+    "descripcion": "Directorio legendario de la 'Scene' internacional. Ideal para buscar los últimos lanzamientos de juegos completos para PC, actualizaciones, parches y versiones Repack.",
+    "enlace": "https://www.skidrowreloaded.com/"
+  },
+  {
+    "nombre": "AnkerGames (Juegos Preinstalados)",
+    "categoria": "🎮 Videojuegos / Descarga Directa",
+    "descripcion": "Excelente biblioteca de juegos para PC listos para jugar. Ofrece títulos en tendencia, clásicos y géneros variados en formato preinstalado para que no tengas que lidiar con instaladores complejos.",
+    "enlace": "https://ankergames.net/"
   }
 ]
