@@ -16,6 +16,6 @@
     "descripcion": "¿El cliente olvidó su clave pero está autocompletada con asteriscos en su navegador? Usa este truco forense:\n\n🖱️ PASO 1: Haz clic derecho justo encima de los asteriscos de la contraseña y selecciona 'Inspeccionar' (o 'Inspeccionar elemento').\n\n💻 PASO 2: Se abrirá un panel lateral con código. El navegador te resaltará en azul la línea exacta de la contraseña.\n\n🔍 PASO 3: En esa línea azul, busca donde dice type=\"password\".\n\n⌨️ PASO 4: Haz doble clic sobre la palabra \"password\", bórrala, escribe la palabra \"text\" y presiona Enter.\n\n✨ ¡Magia! Los asteriscos desaparecerán en tiempo real y verás la contraseña original en texto plano.",
     "advertencia": "⚠️ Nota Técnica: Este cambio es visual y estrictamente temporal. Si recargas la página (F5), la contraseña volverá a protegerse con asteriscos.",
     "es_enlace": true,
-    "enlace": "https://www.youtube.com/watch?v=DZNosdvCB8g"
+    "enlace": "https://www.instagram.com/reel/DZNosdvCB8g/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
   }
 ]
