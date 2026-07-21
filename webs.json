@@ -292,5 +292,17 @@
     "categoria": "🎮 Videojuegos / Descarga Directa",
     "descripcion": "Excelente biblioteca de juegos para PC listos para jugar. Ofrece títulos en tendencia, clásicos y géneros variados en formato preinstalado para que no tengas que lidiar con instaladores complejos.",
     "enlace": "https://ankergames.net/"
+  },
+  {
+    "nombre": "Myinstants (Botonera de Efectos de Sonido)",
+    "categoria": "Edición y Multimedia",
+    "descripcion": "La botonera gigante de internet. Una biblioteca masiva con miles de efectos de sonido, frases icónicas y audios de memes listos para reproducir o descargar con un solo clic. Ideal para nutrir la edición de videos o streams.",
+    "enlace": "https://www.myinstants.com/es/index/us/"
+  },
+  {
+    "nombre": "Vlipsy (Buscador de Clips Cortos)",
+    "categoria": "Edición y Multimedia",
+    "descripcion": "El motor de búsqueda definitivo para clips de video cortos con audio. Te permite encontrar escenas exactas de películas, series, anime o reacciones virales, listas para descargar y usar directamente en tus ediciones.",
+    "enlace": "https://vlipsy.com/"
   }
 ]
