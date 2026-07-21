@@ -17,5 +17,14 @@
     "advertencia": "⚠️ Nota Técnica: Este cambio es visual y estrictamente temporal. Si recargas la página (F5), la contraseña volverá a protegerse con asteriscos.",
     "es_enlace": true,
     "enlace": "https://www.instagram.com/reel/DZNosdvCB8g/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    "titulo": "G0DM0D3 (Terminal Multi-IA)",
+    "autor": "elder-plinius",
+    "categoria": "Inteligencia Artificial",
+    "descripcion": "Una interfaz de chat ofensiva en un solo archivo HTML. Te permite consultar múltiples IAs a la vez (Claude, Gemini, Grok, GPT-4) y ponerlas a competir en paralelo para obtener la mejor respuesta (Godmode Classic). Ideal para Red Teaming y auditoría de prompts.",
+    "advertencia": "⚠️ Nota: Requiere configuración técnica. Debes proveer tus propias claves API (ej. OpenRouter) en la configuración local de la página para que los modelos respondan.",
+    "es_enlace": true,
+    "enlace": "https://github.com/elder-plinius/G0DM0D3"
   }
 ]
