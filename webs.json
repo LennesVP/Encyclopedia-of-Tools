@@ -304,5 +304,11 @@
     "categoria": "Edición y Multimedia",
     "descripcion": "El motor de búsqueda definitivo para clips de video cortos con audio. Te permite encontrar escenas exactas de películas, series, anime o reacciones virales, listas para descargar y usar directamente en tus ediciones.",
     "enlace": "https://vlipsy.com/"
+  },
+  {
+    "nombre": "AWZ Media Player (Reproductor y Toolkit)",
+    "categoria": "Software y Utilidades",
+    "descripcion": "Un reproductor de video y audio universal para Windows que va más allá de la simple reproducción. Incluye herramientas de nivel profesional para recortar, convertir, comprimir y eliminar el ruido de tus archivos multimedia en una interfaz rápida.",
+    "enlace": "https://www.awzware.com/media-player"
   }
 ]
