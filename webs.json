@@ -310,5 +310,11 @@
     "categoria": "Software y Utilidades",
     "descripcion": "Un reproductor de video y audio universal para Windows que va más allá de la simple reproducción. Incluye herramientas de nivel profesional para recortar, convertir, comprimir y eliminar el ruido de tus archivos multimedia en una interfaz rápida.",
     "enlace": "https://www.awzware.com/media-player"
+  },
+  {
+    "nombre": "ClassicGameZone (Emulador Retro Online)",
+    "categoria": "Entretenimiento y Juegos",
+    "descripcion": "Revive la edad dorada de los videojuegos directamente en tu navegador sin instalar nada. Cuenta con emuladores integrados y un catálogo masivo gratuito para consolas clásicas como PlayStation, Super Nintendo, Nintendo 64, Arcade, Mega Drive y Game Boy Advance.",
+    "enlace": "https://classicgamezone.com/es"
   }
 ]
