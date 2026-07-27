@@ -6,5 +6,19 @@
     "descripcion": "Bloquea la publicidad en juegos y navegadores del celular usando el filtro DNS privado de AdGuard (No requiere instalar apps).\n\n🤖 PARA ANDROID:\n1. Ve a Ajustes > Redes e Internet.\n2. Busca la opción 'DNS Privado'.\n3. Selecciona 'Nombre de host del proveedor' y escribe exactamente: dns.adguard.com\n4. Guarda y listo.\n\n🍏 PARA iOS (iPhone):\n1. Abre Safari y busca 'iOS dns adguard'.\n2. Entra al primer resultado oficial, elige 'Método 2' y descarga el Perfil.\n3. Ve a Ajustes > General > VPN y gestión de dispositivos.\n4. Instala el perfil descargado de AdGuard.",
     "advertencia": "⚠️ Nota Técnica: Este bloqueo es a nivel de red. Eliminará el 90% de los anuncios en la web y juegos, pero los anuncios integrados nativamente (como la app oficial de YouTube) no se pueden bloquear por este método.",
     "enlace": "https://adguard-dns.io/es/public-dns.html"
+  },
+  {
+    "titulo": "Guía: Hyper-V (Máquinas Virtuales)",
+    "autor": "Soporte Oficial TREMEND",
+    "plataforma": "Windows",
+    "descripcion": "¿Qué es Hyper-V?\nEs el hipervisor nativo de Windows. Te permite crear 'computadoras virtuales' (Máquinas Virtuales) dentro de tu PC real para instalar sistemas operativos como Windows 7, Linux, etc.\n\nREQUISITOS PREVIOS:\n1. Windows 10/11 (Ediciones Pro, Enterprise, Education).\n2. Tener la Virtualización activada en la BIOS (Intel VT-x o AMD-V).\n\n¿CÓMO CREAR TU PRIMERA MÁQUINA VIRTUAL?\n1. Ve a TREMEND > Soporte Técnico y haz clic en Activar Hyper-V.\n2. Presiona la tecla Windows y busca 'Administrador de Hyper-V' o 'Creación rápida de Hyper-V'.\n3. Si deseas instalar un sistema personalizado, haz clic en 'Origen de instalación local' y selecciona tu archivo de imagen ISO.\n4. Dale a 'Crear máquina virtual', luego a 'Conectar' y a 'Iniciar'.",
+    "advertencia": "⚠️ Precauciones: Todo lo que hagas en Hyper-V se GUARDA permanentemente en su disco duro virtual. Además, la máquina virtual consume memoria RAM real de tu computadora mientras está encendida."
+  },
+  {
+    "titulo": "Guía: Windows Sandbox (Entorno Aislado)",
+    "autor": "Soporte Oficial TREMEND",
+    "plataforma": "Windows",
+    "descripcion": "¿Qué es Windows Sandbox?\nEs un entorno de escritorio extremadamente ligero y temporal. Es una copia desechable de tu Windows actual, diseñada para probar software sospechoso o navegar sin infectar tu PC real.\n\nREQUISITOS PREVIOS:\n1. Windows 10/11 (Ediciones Pro, Enterprise, Education).\n2. Tener la Virtualización activada en la BIOS.\n\n¿CÓMO USARLO?\n1. Ve a TREMEND > Soporte Técnico y haz clic en Activar Sandbox.\n2. Presiona la tecla Windows y busca 'Windows Sandbox' o 'Espacio aislado de Windows'.\n3. Ábrelo. Verás un escritorio limpio. Puedes copiar archivos dudosos de tu PC real y pegarlos dentro del Sandbox para ejecutarlos sin miedo.",
+    "advertencia": "🚨 REGLA DE ORO: Windows Sandbox es TOTALMENTE AMNÉSICO. En el instante en que cierras la ventana (X), TODO LO QUE HICISTE SE BORRA PARA SIEMPRE. No es un lugar para guardar documentos importantes ni probar virus que afecten la red local."
   }
 ]
