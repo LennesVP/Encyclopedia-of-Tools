@@ -1,0 +1,10 @@
+[
+  {
+    "titulo": "Bloquear Anuncios en Celulares (Sin Apps)",
+    "autor": "Manual TREMEND",
+    "plataforma": "Móvil (Android / iOS)",
+    "descripcion": "Bloquea la publicidad en juegos y navegadores del celular usando el filtro DNS privado de AdGuard (No requiere instalar apps).\n\n🤖 PARA ANDROID:\n1. Ve a Ajustes > Redes e Internet.\n2. Busca la opción 'DNS Privado'.\n3. Selecciona 'Nombre de host del proveedor' y escribe exactamente: dns.adguard.com\n4. Guarda y listo.\n\n🍏 PARA iOS (iPhone):\n1. Abre Safari y busca 'iOS dns adguard'.\n2. Entra al primer resultado oficial, elige 'Método 2' y descarga el Perfil.\n3. Ve a Ajustes > General > VPN y gestión de dispositivos.\n4. Instala el perfil descargado de AdGuard.",
+    "advertencia": "⚠️ Nota Técnica: Este bloqueo es a nivel de red. Eliminará el 90% de los anuncios en la web y juegos, pero los anuncios integrados nativamente (como la app oficial de YouTube) no se pueden bloquear por este método.",
+    "enlace": "https://adguard-dns.io/es/public-dns.html"
+  }
+]
