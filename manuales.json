@@ -20,5 +20,12 @@
     "plataforma": "Windows",
     "descripcion": "¿Qué es Windows Sandbox?\nEs un entorno de escritorio extremadamente ligero y temporal. Es una copia desechable de tu Windows actual, diseñada para probar software sospechoso o navegar sin infectar tu PC real.\n\nREQUISITOS PREVIOS:\n1. Windows 10/11 (Ediciones Pro, Enterprise, Education).\n2. Tener la Virtualización activada en la BIOS.\n\n¿CÓMO USARLO?\n1. Ve a TREMEND > Soporte Técnico y haz clic en Activar Sandbox.\n2. Presiona la tecla Windows y busca 'Windows Sandbox' o 'Espacio aislado de Windows'.\n3. Ábrelo. Verás un escritorio limpio. Puedes copiar archivos dudosos de tu PC real y pegarlos dentro del Sandbox para ejecutarlos sin miedo.",
     "advertencia": "🚨 REGLA DE ORO: Windows Sandbox es TOTALMENTE AMNÉSICO. En el instante en que cierras la ventana (X), TODO LO QUE HICISTE SE BORRA PARA SIEMPRE. No es un lugar para guardar documentos importantes ni probar virus que afecten la red local."
+  },
+  {
+    "titulo": "Revelar Contraseñas Ocultas (Asteriscos)",
+    "autor": "Manual TREMEND",
+    "plataforma": "General",
+    "descripcion": "¿El cliente olvidó su clave pero está autocompletada con asteriscos en su navegador? Usa este truco forense:\n\n1. Haz clic derecho sobre los asteriscos de la contraseña.\n2. Selecciona 'Inspeccionar' (Se abrirá el panel de código del navegador).\n3. Busca la línea azul resaltada. Ahí verás un código que dice: type=\"password\"\n4. Haz doble clic en la palabra 'password', bórrala y escribe 'text'.\n5. Presiona Enter. ¡Los asteriscos se convertirtransformarán en la contraseña real!",
+    "advertencia": "⚠️ Nota Técnica: Este cambio es visual y estrictamente temporal. Si recargas la página (F5), la contraseña volverá a ocultarse tras los asteriscos."
   }
 ]
