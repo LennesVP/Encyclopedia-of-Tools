@@ -15,5 +15,13 @@
     "ventajas": "⚠️ TRUCO: Al ejecutarse desde la terminal, es increíblemente ligero y no consume recursos en segundo plano. Analiza el disco a una velocidad absurda.",
     "enlace": "https://github.com/tw93/mole",
     "es_open_source": true
+  },
+  {
+    "nombre": "MacPEAS (Auditoría Forense)",
+    "autor": "PEASS-ng",
+    "es_open_source": true,
+    "descripcion": "El estándar de oro para encontrar vulnerabilidades y configuraciones débiles en macOS. Busca contraseñas en Llaveros (Keychains), fallos de privilegios y SUIDs peligrosos.",
+    "ventajas": "✔ Lee credenciales guardadas y certificados expuestos.\n✔ Detecta si el System Integrity Protection (SIP) está apagado.\n⚠️ TRUCO: Incluye Auto-Blindaje para activar el firewall nativo y apagar la cuenta de invitado.",
+    "enlace": "https://github.com/peass-ng/PEASS-ng/tree/master/macPEAS"
   }
 ]
