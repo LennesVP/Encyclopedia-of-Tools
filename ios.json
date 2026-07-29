@@ -4,5 +4,11 @@
     "categoria": "Utilidades / Sincronización",
     "descripcion": "Conecta de forma fluida tu iPhone con dispositivos Xiaomi. Permite sincronizar notificaciones, transferir archivos por NFC (Touch To Share) y cruzar fotos entre ambos ecosistemas.",
     "enlace": "https://apps.apple.com/us/app/xiaomi-interconnectivity/id6673908449"
+  },
+  {
+    "nombre": "Nearby Glasses",
+    "categoria": "Privacidad / Seguridad",
+    "descripcion": "Aplicación open-source que utiliza el escaneo Bluetooth de tu iPhone para alertarte si hay gafas inteligentes grabando a tu alrededor (ej. Ray-Ban Meta). \n\n⚠️ Nota de seguridad: Existen copias falsas de pago en la App Store que roban el nombre. Revisa siempre el repositorio oficial del creador para descargar la versión legítima.",
+    "enlace": "https://github.com/yjeanrenaud/yj_nearbyglasses"
   }
 ]
