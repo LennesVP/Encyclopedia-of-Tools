@@ -174,5 +174,13 @@
     "ventajas": "Bloquea rastreadores web de forma nativa, acelera la carga de las páginas al no descargar scripts basura y cuenta con un botón de 'Papelera' que elimina instantáneamente tu historial, búsquedas y cookies con un solo toque.",
     "es_open_source": true,
     "enlace": "https://www.firefox.com/es-ES/mobile/focus/"
+  },
+  {
+    "nombre": "Nearby Glasses",
+    "autor": "yjeanrenaud",
+    "es_open_source": true,
+    "descripcion": "Una herramienta de privacidad que escanea tu entorno por Bluetooth para detectar gafas inteligentes (como las Ray-Ban Meta) y alertarte de posibles grabaciones encubiertas.",
+    "ventajas": "✔ Detecta dispositivos portátiles de vigilancia cercanos mediante Bluetooth.\n✔ Protege tu privacidad en espacios públicos y privados.\n⚠️ TRUCO: Evita clones falsos en la Play Store, usa el repositorio oficial o IzzyOnDroid.",
+    "enlace": "https://github.com/yjeanrenaud/yj_nearbyglasses"
   }
 ]
