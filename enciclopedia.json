@@ -17,12 +17,5 @@
     "advertencia": "⚠️ Nota: Requiere configuración técnica. Debes proveer tus propias claves API (ej. OpenRouter) en la configuración local de la página para que los modelos respondan.",
     "es_enlace": true,
     "enlace": "https://github.com/elder-plinius/G0DM0D3"
-  },
-  {
-    "titulo": "Nearby Glasses",
-    "categoria": "Privacidad y Seguridad Móvil",
-    "descripcion": "Aplicación open-source para Android e iOS diseñada para escanear tu entorno y alertarte si detecta gafas inteligentes (como las Ray-Ban Meta) cerca de ti, protegiendo tu privacidad contra grabaciones encubiertas. \n\nRepositorio oficial: https://github.com/yjeanrenaud/yj_nearbyglasses",
-    "advertencia": "Existen clones falsos en las tiendas de apps que intentan lucrarse con este nombre. Descarga solo desde el repositorio oficial de GitHub, IzzyOnDroid o los enlaces verificados por el autor original (yjeanrenaud).",
-    "autor": "yjeanrenaud"
   }
 ]
