@@ -182,5 +182,13 @@
     "descripcion": "Una herramienta de privacidad que escanea tu entorno por Bluetooth para detectar gafas inteligentes (como las Ray-Ban Meta) y alertarte de posibles grabaciones encubiertas.",
     "ventajas": "✔ Detecta dispositivos portátiles de vigilancia cercanos mediante Bluetooth.\n✔ Protege tu privacidad en espacios públicos y privados.\n⚠️ TRUCO: Evita clones falsos en la Play Store, usa el repositorio oficial o IzzyOnDroid.",
     "enlace": "https://github.com/yjeanrenaud/yj_nearbyglasses"
+  },
+  {
+    "nombre": "ToolNeuron (IA Local y Privada)",
+    "autor": "Siddhesh2377",
+    "es_open_source": true,
+    "descripcion": "Aplicación de Inteligencia Artificial que se ejecuta 100% de forma local en tu Android. Incluye chat con modelos LLM, lectura de documentos (RAG) y generación de imágenes sin usar internet ni servicios en la nube.",
+    "ventajas": "✔ Privacidad absoluta: Sin telemetría y sin Google Play Services.\n✔ Almacenamiento fuertemente encriptado (Argon2id, AES-256-GCM) en el teléfono.\n⚠️ TRUCO: Requiere un celular con buen procesador (ARMv8/ARMv9) para correr la IA fluidamente de forma local.",
+    "enlace": "https://github.com/Siddhesh2377/ToolNeuron"
   }
 ]
