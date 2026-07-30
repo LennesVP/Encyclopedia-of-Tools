@@ -238,5 +238,13 @@
     "descripcion": "Gestor avanzado de tareas con seguimiento de tiempo integrado (Timeboxing) para máxima concentración.",
     "ventajas": "Organiza tus tareas, mide el tiempo exacto que dedicas a cada una y bloquea distracciones para mantener el enfoque total en tu trabajo.",
     "enlace": "https://github.com/super-productivity/super-productivity"
+  },
+  {
+    "nombre": "Deep Denoiser",
+    "autor": "sayampy",
+    "es_open_source": true,
+    "descripcion": "Elimina el ruido de fondo y limpia el audio de tus vídeos o grabaciones de voz directamente en tu teléfono.",
+    "ventajas": "⚠️ TRUCO: Utiliza Inteligencia Artificial (DeepFilterNet3) para procesar y mejorar el audio de forma totalmente offline, protegiendo tu privacidad sin requerir internet.",
+    "enlace": "https://github.com/sayampy/deepdenoiser"
   }
 ]
