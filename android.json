@@ -190,5 +190,29 @@
     "descripcion": "Aplicación de Inteligencia Artificial que se ejecuta 100% de forma local en tu Android. Incluye chat con modelos LLM, lectura de documentos (RAG) y generación de imágenes sin usar internet ni servicios en la nube.",
     "ventajas": "✔ Privacidad absoluta: Sin telemetría y sin Google Play Services.\n✔ Almacenamiento fuertemente encriptado (Argon2id, AES-256-GCM) en el teléfono.\n⚠️ TRUCO: Requiere un celular con buen procesador (ARMv8/ARMv9) para correr la IA fluidamente de forma local.",
     "enlace": "https://github.com/Siddhesh2377/ToolNeuron"
+  },
+  {
+    "nombre": "ShizuCallRecorder",
+    "autor": "kitsumed",
+    "es_open_source": true,
+    "descripcion": "Grabador de llamadas de alta calidad que funciona en versiones modernas de Android sin necesidad de acceso Root.",
+    "ventajas": "⚠️ TRUCO: Funciona a través de Shizuku. Graba el audio de llamadas entrantes y salientes saltándose las restricciones nativas de grabación del sistema operativo.",
+    "enlace": "https://github.com/kitsumed/ShizuCallRecorder"
+  },
+  {
+    "nombre": "OwnDroid",
+    "autor": "BinTianqi",
+    "es_open_source": true,
+    "descripcion": "Herramienta de control extremo y privacidad que utiliza privilegios de 'Propietario del Dispositivo' para administrar el hardware.",
+    "ventajas": "Permite bloquear físicamente la cámara, impedir capturas de pantalla globales y restringir funciones del sistema para máxima seguridad anti-espionaje.",
+    "enlace": "https://github.com/BinTianqi/OwnDroid"
+  },
+  {
+    "nombre": "Delta",
+    "autor": "supershadoe",
+    "es_open_source": true,
+    "descripcion": "Transforma el punto de acceso Wi-Fi (Hotspot) del teléfono en una herramienta de red profesional y altamente configurable.",
+    "ventajas": "⚠️ TRUCO: Requiere Shizuku. Permite ocultar tu red Wi-Fi, bloquear dispositivos no deseados y forzar bandas de conexión con reglas avanzadas.",
+    "enlace": "https://github.com/supershadoe/delta"
   }
 ]
