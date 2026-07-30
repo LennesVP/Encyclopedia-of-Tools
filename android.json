@@ -214,5 +214,29 @@
     "descripcion": "Transforma el punto de acceso Wi-Fi (Hotspot) del teléfono en una herramienta de red profesional y altamente configurable.",
     "ventajas": "⚠️ TRUCO: Requiere Shizuku. Permite ocultar tu red Wi-Fi, bloquear dispositivos no deseados y forzar bandas de conexión con reglas avanzadas.",
     "enlace": "https://github.com/supershadoe/delta"
+  },
+  {
+    "nombre": "AirGuard",
+    "autor": "seemoo-lab",
+    "es_open_source": true,
+    "descripcion": "Protección anti-rastreo. Detecta dispositivos ocultos como AirTags cerca de ti para evitar seguimientos no autorizados.",
+    "ventajas": "Si alguien esconde un rastreador para seguirte, tu móvil puede localizarlo e incluso hacerlo sonar para encontrarlo fácilmente.",
+    "enlace": "https://github.com/seemoo-lab/AirGuard"
+  },
+  {
+    "nombre": "Trail-Sense",
+    "autor": "kylecorry31",
+    "es_open_source": true,
+    "descripcion": "Herramienta de supervivencia y senderismo que utiliza los sensores del teléfono para guiarte sin depender de internet.",
+    "ventajas": "⚠️ TRUCO: Guarda una baliza de tu ubicación inicial con un toque. La app te guiará de regreso visualmente, incluso en mitad del monte sin señal.",
+    "enlace": "https://github.com/kylecorry31/Trail-Sense"
+  },
+  {
+    "nombre": "Super Productivity",
+    "autor": "super-productivity",
+    "es_open_source": true,
+    "descripcion": "Gestor avanzado de tareas con seguimiento de tiempo integrado (Timeboxing) para máxima concentración.",
+    "ventajas": "Organiza tus tareas, mide el tiempo exacto que dedicas a cada una y bloquea distracciones para mantener el enfoque total en tu trabajo.",
+    "enlace": "https://github.com/super-productivity/super-productivity"
   }
 ]
