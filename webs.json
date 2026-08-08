@@ -322,5 +322,11 @@
   "categoria": "OSINT / Inteligencia Global",
   "descripcion": "Avanzada plataforma web que agrupa telemetría mundial en tiempo real (aviones, barcos, cámaras de tráfico y radios) en un mapa interactivo. Requiere Docker para ejecutarse.",
   "enlace": "https://github.com/bigbodycobain/shadowbroker"
+},
+  {
+  "nombre": "MapGenie (Mapas Interactivos)",
+  "categoria": "Gaming / Utilidades",
+  "descripcion": "Colección masiva de mapas interactivos para cientos de videojuegos. Muestra ubicaciones exactas de coleccionables, misiones, cofres, jefes y secretos en tiempo real.",
+  "enlace": "https://mapgenie.io/"
 }
 ]
