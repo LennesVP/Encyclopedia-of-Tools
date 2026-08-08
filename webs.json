@@ -334,5 +334,11 @@
   "categoria": "Soporte Técnico / Forense",
   "descripcion": "Utilidad de código abierto de PassMark Software para clonar discos duros y crear imágenes exactas de particiones. Utiliza el poderoso comando 'dd' para garantizar copias bit a bit sin pérdida de datos.",
   "enlace": "https://www.osforensics.com/tools/create-disk-images.html"
+},
+  {
+  "nombre": "Blip (Transferencia Rápida)",
+  "categoria": "Redes / Transferencia de Archivos",
+  "descripcion": "Plataforma ultrarrápida para enviar archivos de cualquier tamaño directamente desde el escritorio. Ideal para compartir respaldos pesados o imágenes de disco sin límites de subida.",
+  "enlace": "https://blip.net/"
 }
 ]
