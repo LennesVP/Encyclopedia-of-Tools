@@ -328,5 +328,11 @@
   "categoria": "Gaming / Utilidades",
   "descripcion": "Colección masiva de mapas interactivos para cientos de videojuegos. Muestra ubicaciones exactas de coleccionables, misiones, cofres, jefes y secretos en tiempo real.",
   "enlace": "https://mapgenie.io/"
+},
+  {
+  "nombre": "OSFClone (Clonación Forense)",
+  "categoria": "Soporte Técnico / Forense",
+  "descripcion": "Utilidad de código abierto de PassMark Software para clonar discos duros y crear imágenes exactas de particiones. Utiliza el poderoso comando 'dd' para garantizar copias bit a bit sin pérdida de datos.",
+  "enlace": "https://www.osforensics.com/tools/create-disk-images.html"
 }
 ]
